@@ -1,0 +1,2 @@
+ResourceStyle2
+==============
